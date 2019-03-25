@@ -1,5 +1,8 @@
 #Code made by R.M.Lehnemann into 24/03/2018, published into 25/03/2018
 
+#User License:
+# All code are distributed under LGPL by Rodrigo M.Lehnemann
+
 class myResult:
     first = True
     nationalities = []
