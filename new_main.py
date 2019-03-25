@@ -1,3 +1,5 @@
+#Code made by R.M.Lehnemann into 24/03/2018, published into 25/03/2018
+
 class myResult:
     first = True
     nationalities = []
