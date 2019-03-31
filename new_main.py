@@ -41,7 +41,7 @@ class myResult:
 
 
     def __init__(self):
-        with open('./python-1/data.csv') as the_file:
+        with open('./data.csv') as the_file:
             for line in the_file:
                 if self.first == False:
                     current_data = self.data_read(line)
